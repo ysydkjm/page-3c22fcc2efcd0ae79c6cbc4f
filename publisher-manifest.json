@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "bb3a3e65ec094ff85397bde4",
+  "owner": "ysydkjm",
+  "repo": "page-3c22fcc2efcd0ae79c6cbc4f",
+  "title": "龙猫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3c22fcc2efcd0ae79c6cbc4f",
+      "a": "龙猫云",
+      "b": "",
+      "entity": "龙猫云",
+      "brand": "龙猫云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b3b310c346041204d4d412237e9dd983296cbf4747a699beaf21e8e9bfdac03d",
+      "content": {
+        "keyword1": "龙猫云",
+        "keyword2": "",
+        "primary_entity": "龙猫云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "龙猫云提供安全稳定的VPN加速服务，助力您畅享高速网络。立即选择套餐并下载客户端。",
+          "AI_DESCRIPTION": "龙猫云提供安全稳定的VPN加速服务，助力您畅享高速网络。立即选择套餐并下载客户端。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: Arial, Helvetica, sans-serif;\n            margin: 0;\n            padding: 0;\n            background-color: #F5F2EB;\n            color: #333333;\n            line-height: 1.6;\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        header {\n            background-color: #FFFFFF;\n            padding: 20px 0;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        nav {\n            display: flex;\n            justify-content: center;\n            gap: 30px;\n            flex-wrap: wrap;\n        }\n        nav a {\n            color: #1E4D3F;\n            text-decoration: none;\n            font-weight: 500;\n            font-size: 1.1em;\n        }\n        h1 {\n            color: #1E4D3F;\n            text-align: center;\n            font-size: 2.8em;\n            margin-bottom: 10px;\n        }\n        .hero {\n            background: linear-gradient(to right, #F5F2EB, #E8E0D5);\n            padding: 60px 20px;\n            text-align: center;\n            border-radius: 12px;\n            margin-bottom: 40px;\n        }\n        .hero h2 {\n            color: #1E4D3F;\n            font-size: 1.8em;\n            margin-bottom: 20px;\n        }\n        .hero p {\n            font-size: 1.2em;\n            color: #555555;\n            max-width: 800px;\n            margin: 0 auto 30px;\n        }\n        .section {\n            background-color: #FFFFFF;\n            padding: 40px;\n            border-radius: 12px;\n            margin-bottom: 40px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 20px;\n        }\n        .card {\n            background: #FFFFFF;\n            border: 1px solid #E8E0D5;\n            border-radius: 12px;\n            padding: 30px;\n            text-align: center;\n            transition: transform 0.3s;\n        }\n        .card:hover {\n            transform: translateY(-5px);\n        }\n        .featured {\n            border-color: #1E4D3F;\n            position: relative;\n        }\n        .featured::after {\n            content: \"推荐\";\n            position: absolute;\n            top: -10px;\n            right: 20px;\n            background: #1E4D3F;\n            color: white;\n            padding: 5px 15px;\n            border-radius: 20px;\n            font-size: 0.9em;\n        }\n        .price {\n            font-size: 1.8em;\n            color: #1E4D3F;\n            margin: 20px 0;\n        }\n        .annual {\n            font-size: 0.9em;\n            color: #666666;\n            margin-bottom: 20px;\n        }\n        .features ul {\n            list-style: none;\n            padding: 0;\n        }\n        .features li {\n            padding: 8px 0;\n            text-align: left;\n            font-size: 1em;\n        }\n        .faq {\n            margin-top: 20px;\n        }\n        details {\n            margin-bottom: 15px;\n            border: 1px solid #E8E0D5;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 15px 20px;\n            background-color: #F5F2EB;\n            font-weight: 500;\n            cursor: pointer;\n            font-size: 1.1em;\n        }\n        details[open] summary {\n            background-color: #E8E0D5;\n        }\n        details p {\n            padding: 15px 20px;\n            background-color: #FFFFFF;\n            margin: 0;\n        }\n        footer {\n            text-align: center;\n            padding: 30px;\n            background-color: #1E4D3F;\n            color: #F5F2EB;\n            font-size: 0.9em;\n        }\n    </style>\n\n\n    <header class=\"container\">\n        <nav>\n            <a href=\"#plans\">套餐选择</a>\n            <a href=\"#clients\">客户端</a>\n            <a href=\"#faq\">常见问题</a>\n        </nav>\n    </header>\n    <main class=\"container\">\n        <h1>龙猫云</h1>\n        <div class=\"hero\">\n            <h2>安全高效的VPN加速器</h2>\n            <p>让您的网络连接更顺畅、更安全。支持多设备在线，解锁全球内容，享受顶级加速体验。</p>\n        </div>\n        <div class=\"section\">\n            <h2>选择您的套餐</h2>\n            {{PLANS_HTML}}\n        </div>\n        <div class=\"section\">\n            <h2>客户端选择</h2>\n            {{CLIENTS_HTML}}\n        </div>\n        <div class=\"section\">\n            <h2>常见问题</h2>\n            <div class=\"faq\">\n                <details>\n                    <summary>龙猫云是什么？</summary>\n                    <p>龙猫云是一款专注于VPN网络加速的品牌，提供安全稳定的上网加速解决方案，帮助用户畅享流畅体验。</p>\n                </details>\n                <details>\n                    <summary>如何选择适合的套餐？</summary>\n                    <p>根据您的使用需求选择基础版（支持3台设备）、旗舰版（支持5台设备，解锁流媒体）或团队版（支持20台设备，企业级服务）。</p>\n                </details>\n                <details>\n                    <summary>支持哪些设备？</summary>\n                    <p>支持 Windows、Mac、iOS、Android 等主流设备，同时在线数量以套餐为准。</p>\n                </details>\n                <details>\n                    <summary>客户端如何下载和使用？</summary>\n                    <p>访问官网下载适用于您设备的客户端，按照说明进行安装和配置即可。</p>\n                </details>\n                <details>\n                    <summary>如何解锁流媒体内容？</summary>\n                    <p>旗舰版及以上套餐支持全节点原生流媒体解锁，基础版支持基础流媒体解锁。</p>\n                </details>\n            </div>\n        </div>\n    </main>\n    <footer class=\"container\">\n        <p>© 2024 龙猫云 版权所有 | 所有链接使用页面锚点</p>\n        <p>隐私政策 | 条款 | 联系我们</p>\n    </footer>\n\n",
+          "hash": "cfdb4962a3bdb8eef9f2d9ef4a0aa1f0c18ac9badfcc27cca623483f636dd627",
+          "seo": {
+            "title": "龙猫云 - VPN 梯子网络加速器 | 客户端下载",
+            "keywords": "龙猫云, VPN, 加速器, 机场, 客户端下载",
+            "description": "龙猫云提供安全稳定的VPN加速服务，助力您畅享高速网络。立即选择套餐并下载客户端。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "erhwy3.cn",
+    "host": "a.erhwy3.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "erhwy3.cn",
+      "url": "https://erhwy3.cn/",
+      "label": "可乐云(Kelecloud)",
+      "apex": "erhwy3.cn",
+      "kind": null,
+      "identity": "yrfcwhsgng/page-0f79f4829085bfc0a7b71eab"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3f4a5a25dd761f3aad8dd8f7f93c957512ff5c9ba8a153a322251c3bb4d5451a",
+    "sitemap.xml": "951de18285098eb648a6d31f4cfde21458496b5b644cb4383d49513b75bc97fb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1fd4c847e88ba452cc20b4c60b3e14c5aab08fde36fd06629d6aa8ca9018fb35",
+    "robots.txt": "9c4f66ebd21bc468f6ce4298f678991e1c118fd6c100a91e3406a1ae76c1aa57",
+    "afb2998d91b61e2781e967f4a1fa2f6f.txt": "13ad0e352d46efd27a45def04c3587bc1900fc63d65d796c65461e328b6860da"
+  },
+  "revision": "53f24c13a86f8bbb09479024f4912181963372f6258a99e51e6aeedaeae78571"
+}
